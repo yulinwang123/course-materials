@@ -1,6 +1,6 @@
 [canvas_url]: https://canvas.uchicago.edu/courses/71728
 [jon_oh]: https://calendar.app.google/yto22DQqDT1KxLDT8
-[pierre_oh]: https://outlook.office.com/bookwithme/user/3910050830734cb18fb847763908a014@UCHICAGO.EDU/meetingtype/CfyKpQl_sEeryUx6U77lpg2?bookingcode=ebe4ae02-f6bc-4f74-bfa1-bc437e74b10c&anonymous&ep=mlink
+[pierre_oh]: https://outlook.office.com/bookwithme/user/3910050830734cb18fb847763908a014@UCHICAGO.EDU/meetingtype/CfyKpQl_sEeryUx6U77lpg2?bookingcode=c5c93739-1186-4b97-b525-2c836910ad95&anonymous
 [hailey_oh]: https://calendar.app.google/Vt6CkKcYNHFGkQpJ8
 
 # Large-Scale Computing for the Social Sciences
